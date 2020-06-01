@@ -5,5 +5,5 @@ So I tried making a website blocker which will block those websites during my st
 
 ### How can I use?
 
-1. U can simply fork and run the web_blocker.py file on cmd.
-2. U can also schedule this by using Task Scheduler so that whenever you start your system it will run in background. (here the file extension should be .pyw ) 
+1. Simply fork and run the web_blocker.py file on cmd.
+2. We can also schedule this by using Task Scheduler so that whenever we start our system it will run in background. (here the file extension should be .pyw ) 
